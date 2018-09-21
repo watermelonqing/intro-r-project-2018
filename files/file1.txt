@@ -1,0 +1,2 @@
+This is the first file on the intro-r-project-2018.
+RStudio
